@@ -14,11 +14,11 @@
 
 baseURL = "https://ductmkma.github.io/"
 publishdir = "ductmkma.github.io"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+languageCode = "vi"
+defaultContentLanguage = "vi"
+title = "Trần Minh Đức"
 theme = "tranquilpeak"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "tran-minh-duc"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -32,12 +32,12 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Firstname Lastname"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  name = "Trần Minh Đức"
+  bio = "Cố gắng vì tương lai"
+  job = "Developer"
+  location = "Viet Nam"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  #gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
