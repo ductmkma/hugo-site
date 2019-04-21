@@ -1,0 +1,6 @@
+[submodule "ductmkma.github.io"]
+	path = ductmkma.github.io
+	url = https://github.com/ductmkma/ductmkma.github.io.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
