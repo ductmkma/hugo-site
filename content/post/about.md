@@ -1,15 +1,38 @@
 ---
-title: "About"
+title: "Bài viết đầu tiên"
+slug: "bai-viet-dau-tien"
 date: 2019-04-21T22:01:09+07:00
 categories:
-- category
-- subcategory
+- abc
 tags:
-- tag1
-- tag2
+- tags abc
 keywords:
-- tech
+summary: "Tại cơ quan công an, ông Linh khai nhận, tối 1/4, ông Linh được bạn chở về chung cư Galaxy 9. Khi ông Linh vào thang máy chung cư để lên nhà con gái ở tầng 15 thì cùng lúc bảo vệ chung cư quẹt thẻ từ cho bé gái 9 tuổi lên tầng 10."
 #thumbnailImage: //example.com/image.jpg
 ---
+Tại cơ quan công an, ông Linh khai nhận, tối 1/4, ông Linh được bạn chở về chung cư Galaxy 9. Khi ông Linh vào thang máy chung cư để lên nhà con gái ở tầng 15 thì cùng lúc bảo vệ chung cư quẹt thẻ từ cho bé gái 9 tuổi lên tầng 10.
 
+Theo những hình ảnh mà camera ghi lại, khi thang vừa đóng cửa, ông Linh có hành động ôm, hôn bé gái. Bé hoảng sợ đứng gần cửa thang máy nhưng ông Linh tiếp tục ôm bé vào lòng. Khi đến tầng 10, cửa thang máy vừa mở, bé gái hoảng loạn bỏ chạy về báo gia đình.
+
+Bước đầu, ông Linh thừa nhận mình chính là người trong clip và chỉ "nựng" cháu bé chứ không có ý gì khác.
+Tại cơ quan công an, ông Linh khai nhận, tối 1/4, ông Linh được bạn chở về chung cư Galaxy 9. Khi ông Linh vào thang máy chung cư để lên nhà con gái ở tầng 15 thì cùng lúc bảo vệ chung cư quẹt thẻ từ cho bé gái 9 tuổi lên tầng 10.
+
+Theo những hình ảnh mà camera ghi lại, khi thang vừa đóng cửa, ông Linh có hành động ôm, hôn bé gái. Bé hoảng sợ đứng gần cửa thang máy nhưng ông Linh tiếp tục ôm bé vào lòng. Khi đến tầng 10, cửa thang máy vừa mở, bé gái hoảng loạn bỏ chạy về báo gia đình.
+
+Bước đầu, ông Linh thừa nhận mình chính là người trong clip và chỉ "nựng" cháu bé chứ không có ý gì khác.
+Tại cơ quan công an, ông Linh khai nhận, tối 1/4, ông Linh được bạn chở về chung cư Galaxy 9. Khi ông Linh vào thang máy chung cư để lên nhà con gái ở tầng 15 thì cùng lúc bảo vệ chung cư quẹt thẻ từ cho bé gái 9 tuổi lên tầng 10.
+
+Theo những hình ảnh mà camera ghi lại, khi thang vừa đóng cửa, ông Linh có hành động ôm, hôn bé gái. Bé hoảng sợ đứng gần cửa thang máy nhưng ông Linh tiếp tục ôm bé vào lòng. Khi đến tầng 10, cửa thang máy vừa mở, bé gái hoảng loạn bỏ chạy về báo gia đình.
+
+Bước đầu, ông Linh thừa nhận mình chính là người trong clip và chỉ "nựng" cháu bé chứ không có ý gì khác.
+Tại cơ quan công an, ông Linh khai nhận, tối 1/4, ông Linh được bạn chở về chung cư Galaxy 9. Khi ông Linh vào thang máy chung cư để lên nhà con gái ở tầng 15 thì cùng lúc bảo vệ chung cư quẹt thẻ từ cho bé gái 9 tuổi lên tầng 10.
+
+Theo những hình ảnh mà camera ghi lại, khi thang vừa đóng cửa, ông Linh có hành động ôm, hôn bé gái. Bé hoảng sợ đứng gần cửa thang máy nhưng ông Linh tiếp tục ôm bé vào lòng. Khi đến tầng 10, cửa thang máy vừa mở, bé gái hoảng loạn bỏ chạy về báo gia đình.
+
+Bước đầu, ông Linh thừa nhận mình chính là người trong clip và chỉ "nựng" cháu bé chứ không có ý gì khác.
+Tại cơ quan công an, ông Linh khai nhận, tối 1/4, ông Linh được bạn chở về chung cư Galaxy 9. Khi ông Linh vào thang máy chung cư để lên nhà con gái ở tầng 15 thì cùng lúc bảo vệ chung cư quẹt thẻ từ cho bé gái 9 tuổi lên tầng 10.
+
+Theo những hình ảnh mà camera ghi lại, khi thang vừa đóng cửa, ông Linh có hành động ôm, hôn bé gái. Bé hoảng sợ đứng gần cửa thang máy nhưng ông Linh tiếp tục ôm bé vào lòng. Khi đến tầng 10, cửa thang máy vừa mở, bé gái hoảng loạn bỏ chạy về báo gia đình.
+
+Bước đầu, ông Linh thừa nhận mình chính là người trong clip và chỉ "nựng" cháu bé chứ không có ý gì khác.
 <!--more-->

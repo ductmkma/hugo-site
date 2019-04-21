@@ -40,7 +40,7 @@ canonifyurls = true
   #gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "https://www.upsieutoc.com/images/2019/04/20/57039844_1365946223545060_7310943161461768192_o.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -86,10 +86,16 @@ canonifyurls = true
   url = "https://github.com/kakawait"
 [[menu.links]]
   weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  identifier = "facebook"
+  name = "Facebook"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
+  url = "https://facebook.com/zentedu"
+[[menu.links]]
+  weight = 3
+  identifier = "youtube"
+  name = "Youtube"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-youtube\"></i>"
+  url = "https://www.youtube.com/channel/UCyA5cP5MZYo92FzzynshS-w"
 
 [[menu.misc]]
   weight = 1
@@ -103,7 +109,7 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006 
-  # dateFormat = "2 January 2006"
+  dateFormat = "2 January 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
   # keywords = ["development", "next-gen"]
@@ -119,7 +125,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Trang blog của Trần Minh Đức"
 
   # Customization
   # Define the behavior of the sidebar
@@ -134,7 +140,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+  sidebarBehavior = 2
 
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
   # There is many free CDN like Cloudinary or you can also use indirectly
@@ -142,7 +148,7 @@ canonifyurls = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
-  coverImage = "cover.jpg"
+  coverImage = "cover-v1.2.0.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
@@ -171,17 +177,17 @@ canonifyurls = true
 
   # Display `Next` on left side of the pagination, and `Prev` on right side one.
   # If you set this value to `true`, these positions swap.
-  # swapPaginator = true
+  swapPaginator = true
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  # [[params.customCSS]]
-  #   href = "css/mystyle.css"
+   [[params.customCSS]]
+    href = "css/mystyle.css"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
-  # [[params.customJS]]
-  #   src = "js/myscript.js"
+  [[params.customJS]]
+   src = "js/myscript.js"
 
   # Sharing options
   # Comment and uncomment to enable or disable sharing options
@@ -197,11 +203,6 @@ canonifyurls = true
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
-
   [params.header.rightLink]
     class = ""
     icon = ""
@@ -212,5 +213,5 @@ canonifyurls = true
   #   url = "/#about"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
-  # [params.footer]
-  #   copyright = "<a href=\"https://github.com/ductmkma\">Trần Minh Đức</a>"
+  [params.footer]
+     copyright = "<a href=\"https://github.com/ductmkma\">Trần Minh Đức</a>"
