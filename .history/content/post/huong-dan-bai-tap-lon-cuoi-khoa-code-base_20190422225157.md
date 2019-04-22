@@ -38,7 +38,6 @@ Mình sẽ phân tích từng bước nhé.
 **Bước 3:** Chúng ta nhập mã sản phẩm. Kiểm tra xem nếu có thì in ra sản phẩm đó.
 
 **Bước 4:** Nhập số lượng mua. Kiểm tra số lượng mua luôn luôn phải nhỏ hơn hoặc bằng số lượng của sản phẩm trong kho. (trong file). Nhập số lượng rồi thì add thông tin của sản phẩm muốn mua đó vào arraylist giỏ hàng đã tạo từ đầu ấy.
-
 **Bước 5:** Chỗ này có menu quay vòng hỏi là bạn có mua nữa ko. Chọn 1 để tiếp tục mua. Chọn 2 để thanh toán.
 Nếu chọn 1 thì sẽ quay lên bước 3 để nhập mã sp và tiếp tục mua. ( Lưu ý khi họ mua nhiều sản phẩm trong cùng lúc như thế thì mã hóa đơn nó sẽ phải giống nhau nhé. ) 
 
@@ -52,21 +51,19 @@ Cuối cùng là in ra một cái hóa đơn trên màn hình dạng bảng như
 
 Các bạn có thể in ra dạng đơn giản hơn. Vì ở đây mình tính thuế VAT các kiểu nên nó hơn nhiều thông tin ở tờ hóa đơn.
 ![alt text](https://2.bp.blogspot.com/-A-0OOTdGe0g/WkOTYmvME4I/AAAAAAAABEY/yRLtJoZfCS8quIBkEjNzn7oS8UOdGcRiACEwYBhgL/s640/hoadon.PNG "Anh-3")
+III. Phần báo cáo thống kê.
+Phần này chỉ làm được khi mình đã có dữ liệu trong file hoadon.txt. Và chỉ ông quản trị mới được phép xem :D
 
-**III. Phần báo cáo thống kê.**
-``Phần này chỉ làm được khi mình đã có dữ liệu trong file hoadon.txt. Và chỉ ông quản trị mới được phép xem :D``
-![alt text](https://4.bp.blogspot.com/-mjqivjS4KrM/WkOVtCdNijI/AAAAAAAABEg/cNd2B1IhNJwQyYdMWz2IWrkM-wTN_k_BQCEwYBhgL/s640/hoadonfile.PNG)
 
-1.``Thống kê theo ngày hoặc tháng`` thì chúng ta sẽ load file hoadon.txt lên. Căn cứ vào ngày bán được lưu trong file hoadon.txt thì lấy ra được tất cả các sản phẩm được bán đã đc lưu trong file đó và in ra thông tin các sản phẩm đã được mua.
+
+
+1.Thống kê theo ngày hoặc tháng thì chúng ta sẽ load file hoadon.txt lên. Căn cứ vào ngày bán được lưu trong file hoadon.txt thì lấy ra được tất cả các sản phẩm được bán đã đc lưu trong file đó và in ra thông tin các sản phẩm đã được mua.
 - Nhập ngày tháng cần thống kê.
 - Kiểm tra trong file hóa đơn các sản phẩm nào được bán trong ngày đấy. Nếu có thì in ra thôi. In ra kiểu như ảnh dưới đây.
-![alt text](https://1.bp.blogspot.com/-qybaGJvjui8/WkUlQ2yV2sI/AAAAAAAABFU/XcSRjNNsxfw-N6B1LE1jY1zNzt9Bb4OVwCLcBGAs/s640/bctk.PNG)
-Cái này như mình tìm kiếm qua cái ngày bán thôi mà :D
 
+
+Cái này như mình tìm kiếm qua cái ngày bán thôi mà :D
 2.Thống kê  theo nhân viên trong tháng. Thì mình cũng load file hoadon.txt xong sau đó nhập mã nhân viên và tháng cần thống kê. Sau đó kiểm tra xem ông nhân viên có mã đó đã bán được bao nhiêu sản phẩm trong tháng đó. (Như tìm kiếm trong file).
 
-Các bạn làm phần nâng cao tham khảo thêm cách chương trình chạy ở dưới đây nha :D 
-
-Cảm ơn các bạn đã đọc bài viết, nếu thấy có ích hãy để lại comment nhận xét nhé :)
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/a5VeeJyfRmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Các bạn làm phần nâng cao tham khảo thêm cách chương trình chạy ở dưới đây nha :D
 <!--more-->

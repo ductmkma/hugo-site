@@ -65,8 +65,6 @@ Cái này như mình tìm kiếm qua cái ngày bán thôi mà :D
 
 2.Thống kê  theo nhân viên trong tháng. Thì mình cũng load file hoadon.txt xong sau đó nhập mã nhân viên và tháng cần thống kê. Sau đó kiểm tra xem ông nhân viên có mã đó đã bán được bao nhiêu sản phẩm trong tháng đó. (Như tìm kiếm trong file).
 
-Các bạn làm phần nâng cao tham khảo thêm cách chương trình chạy ở dưới đây nha :D 
-
-Cảm ơn các bạn đã đọc bài viết, nếu thấy có ích hãy để lại comment nhận xét nhé :)
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/a5VeeJyfRmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Các bạn làm phần nâng cao tham khảo thêm cách chương trình chạy ở dưới đây nha :D
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/a5VeeJyfRmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
