@@ -56,7 +56,6 @@ Các bạn có thể in ra dạng đơn giản hơn. Vì ở đây mình tính t
 **III. Phần báo cáo thống kê.**
 
 ``Phần này chỉ làm được khi mình đã có dữ liệu trong file hoadon.txt. Và chỉ ông quản trị mới được phép xem :D``
-
 ![alt text](https://4.bp.blogspot.com/-mjqivjS4KrM/WkOVtCdNijI/AAAAAAAABEg/cNd2B1IhNJwQyYdMWz2IWrkM-wTN_k_BQCEwYBhgL/s640/hoadonfile.PNG)
 
 1.``Thống kê theo ngày hoặc tháng`` thì chúng ta sẽ load file hoadon.txt lên. Căn cứ vào ngày bán được lưu trong file hoadon.txt thì lấy ra được tất cả các sản phẩm được bán đã đc lưu trong file đó và in ra thông tin các sản phẩm đã được mua.
