@@ -44,12 +44,8 @@ Nếu chọn 1 thì sẽ quay lên bước 3 để nhập mã sp và tiếp tụ
 
 Nếu chọn 2: khi bấm nút thanh toán. Chúng ta sẽ lưu cái arraylist kia vào file hoadon.txt tất cả các thông tin mà class HoaDon có. (Nó cũng giống mình lưu thông tin nhân viên vào file thôi vì thế nó cũng có hàm loadfile và savefile nha)
 ``Lưu ý: Để tránh mã hóa đơn trùng nhau, đây là cách tạo ra mã hóa đơn mình khuyên nên sử dụng. Mọi người lưu dưới dạng: MaKH_Năm_Tháng_ngày_giờ_phut_giây (Cái này mình lấy từ hệ thống qua hàm Date của java nha)``
+![alt text](https://1.bp.blogspot.com/-8swwpT0fqVE/WkOTXn3XlXI/AAAAAAAABEQ/GleB-u7rUc0yCWmMpmqCIAeBx7Wyfu74wCLcBGAs/s640/maHoaDon.PNG)
 
-```java
-    Date mahoadon = new Date(); // Khởi tạo 1 đối tượng để lấy ngày giờ hiện tại
-    SimpleDateFormat fomatmahoadon = new SimpleDateFormat("YYYY_MM_dd_HH_mm_ss");
-    hd.setIDHD(qlkh.listkh.get(qlkh.chiso).getID() + "_" + fomatmahoadon.format(mahoadon));
-```
 
 Sau khi lưu được vào file hóa đơn rồi thì chúng ta phải ``TRỪ`` số lượng của sản phẩm đó trong file sản phẩm đúng không ? Vì mua rồi phải trừ đi chứ.
 Cuối cùng là in ra một cái hóa đơn trên màn hình dạng bảng như dưới đây là xong.
